@@ -1,5 +1,6 @@
-This are tutorial files for Session 3: Protein preparation, protonation
-and building by T. Giorgino and the Plumed Metric  "bonus track"
+This directory contains the tutorial files and slides 
+presented for Session 3: Protein preparation, protonation
+and building by T. Giorgino and the "bonus track" on Plumed Metric  
 presented at the [3rd Workshop on High Throughput Molecular
 Dynamics](http://workshop.htmd.org/htmd_molecular_dynamics_programme/)
 (2016), 10-11 nov 2016, Barcelona Biomedical Research Parc.
