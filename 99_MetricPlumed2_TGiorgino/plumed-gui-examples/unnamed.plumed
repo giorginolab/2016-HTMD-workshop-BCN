@@ -1,0 +1,7 @@
+
+UNITS  LENGTH=A  ENERGY=kcal/mol  TIME=ps
+
+protein: COM ATOMS=[chain A and name CA]
+ligand:  COM ATOMS=[chain B and noh]
+
+DISTANCE ATOMS=protein,ligand
